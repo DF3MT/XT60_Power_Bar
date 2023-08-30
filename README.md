@@ -9,6 +9,6 @@ please find some images and later on all links to the parts which are used.
 <img src="https://github.com/DF3MT/XT60_Power_Bar/blob/master/XT60%20Power%20Bar%209X/images/PowerBar%209x%20003.jpeg" />
 
 
-<h2>5 Port Version</h2>
+<h2>5 Port Version (not produced right know)</h2>
 <img src="https://github.com/DF3MT/XT60_Power_Bar/blob/master/XT60%20Power%20Bar%205X/images/PCB%20XT60%20Power%20Bar%205X.png?raw=true" />
 
