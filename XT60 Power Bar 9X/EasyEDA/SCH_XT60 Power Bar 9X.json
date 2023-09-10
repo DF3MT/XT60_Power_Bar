@@ -1,0 +1,86 @@
+{
+  "editorVersion": "6.5.34",
+  "docType": "5",
+  "title": "XT60 Power Bar",
+  "description": "",
+  "colors": {},
+  "schematics": [
+    {
+      "docType": "1",
+      "title": "XT60 Leiste 9X",
+      "description": "",
+      "dataStr": {
+        "head": {
+          "docType": "1",
+          "editorVersion": "6.5.34",
+          "newgId": true,
+          "c_para": {
+            "Prefix Start": "1"
+          },
+          "c_spiceCmd": "null",
+          "hasIdFlag": true,
+          "uuid": "sheet_5579132180460646",
+          "x": "0",
+          "y": "0",
+          "portOfADImportHack": "",
+          "importFlag": 0,
+          "transformList": ""
+        },
+        "canvas": "CA~1000~1000~#FFFFFF~yes~#CCCCCC~5~1000~1000~line~5~pixel~5~0~0",
+        "shape": [
+          "LIB~0~-806~package`NONE`Manufacturer Part`?`spicePre`.`~~0~frame_lib_1~~~0~~yes~yes~~~#@$T~N~571.078125~-809~0~#000080~Arial~~~~~comment~A~0~start~gge223~0~#@$PT~M 206 -796 L 206 -806 M 206 -10 L 206 0 M 402 -796 L 402 -806 M 402 -10 L 402 0 M 598 -796 L 598 -806 M 598 -10 L 598 0 M 794 -796 L 794 -806 M 794 -10 L 794 0 M 990 -796 L 990 -806 M 990 -10 L 990 0 M 10 -600 L 0 -600 M 1139 -600 L 1149 -600 M 10 -404 L 0 -404 M 1139 -404 L 1149 -404 M 10 -208 L 0 -208 M 1139 -208 L 1149 -208 M 10 -12 L 0 -12 M 1139 -12 L 1149 -12~#880000~1~0~none~gge10~0~frame_tick#@$T~P~571.65625~-817.71875~0~#000080~Arial~~~~~comment~A~0~start~gge220~0~#@$T~L~1.5~-698~0~#880000~~~~~~comment~A~1~start~gge13~0~frame_tick#@$T~L~1140.5~-698~0~#880000~~~~~~comment~A~1~start~gge19~0~frame_tick#@$T~L~1.5~-502~0~#880000~~~~~~comment~B~1~start~gge25~0~frame_tick#@$T~L~1140.5~-502~0~#880000~~~~~~comment~B~1~start~gge31~0~frame_tick#@$T~L~1.5~-306~0~#880000~~~~~~comment~C~1~start~gge37~0~frame_tick#@$T~L~1140.5~-306~0~#880000~~~~~~comment~C~1~start~gge43~0~frame_tick#@$T~L~1.5~-110~0~#880000~~~~~~comment~D~1~start~gge49~0~frame_tick#@$T~L~1140.5~-110~0~#880000~~~~~~comment~D~1~start~gge55~0~frame_tick#@$T~L~108~-797.5~0~#880000~~~~~~comment~1~1~start~gge61~0~frame_tick#@$T~L~108~-1.5~0~#880000~~~~~~comment~1~1~start~gge67~0~frame_tick#@$T~L~304~-797.5~0~#880000~~~~~~comment~2~1~start~gge73~0~frame_tick#@$T~L~304~-1.5~0~#880000~~~~~~comment~2~1~start~gge79~0~frame_tick#@$T~L~500~-797.5~0~#880000~~~~~~comment~3~1~start~gge85~0~frame_tick#@$T~L~500~-1.5~0~#880000~~~~~~comment~3~1~start~gge91~0~frame_tick#@$T~L~696~-797.5~0~#880000~~~~~~comment~4~1~start~gge97~0~frame_tick#@$T~L~696~-1.5~0~#880000~~~~~~comment~4~1~start~gge103~0~frame_tick#@$T~L~892~-797.5~0~#880000~~~~~~comment~5~1~start~gge109~0~frame_tick#@$T~L~892~-1.5~0~#880000~~~~~~comment~5~1~start~gge115~0~frame_tick#@$R~10~-796~~~1129~786~#880000~1~0~none~gge121~0~frame_innerbox#@$R~0~-806~~~1149~806~#880000~1~0~none~gge124~0~frame_outbox#@$R~694.99995~-90~~~444~80~#880000~1~0~none~gge127~0~frame_hitarea#@$PL~695.1 -50.75 1138.63 -50.75~#880000~1~0~none~gge130~0#@$PL~799.63 -30.75 1138.63 -30.75~#880000~1~0~none~gge133~0#@$PL~1059.61 -89.93 1059.63 -50.75~#880000~1~0~none~gge136~0#@$PL~1059.63 -50.75 1059.63 -30.75~#880000~1~0~none~gge139~0#@$T~L~699.99995~-77~0~#880000~~8pt~~~~comment~TITLE:~1~start~gge142~0~pinpart#@$T~L~757.62495~-64.41~0~#0000FF~~10pt~~~~comment~Power Bar 9X~1~start~gge148~0~frame_title#@$T~L~1064.62495~-63.75~0~#880000~~8pt~~~~comment~REV:~1~start~gge154~0~pinpart#@$T~L~1102.62495~-63.75~0~#0000FF~~9pt~~~~comment~1.0~1~start~gge160~0~frame_version#@$T~L~804.62495~-15~0~#880000~~8pt~~~~comment~Date:~1~start~gge166~0~pinpart#@$T~L~851.62495~-14.52~0~#0000FF~~9pt~~~~comment~2023-09-10~1~start~gge172~0~frame_date#@$T~L~1063.62495~-35~0~#880000~~8pt~~~~comment~Sheet:~1~start~gge178~0~pinpart#@$T~L~1108.62495~-34.52~0~#0000FF~~9pt~~~~comment~1/1~1~start~gge184~0~frame_sheet#@$T~L~943.62495~-14.75~0~#880000~~8pt~~~~comment~Drawn By:~1~start~gge190~0~pinpart#@$T~L~804.62495~-36.75~0~#880000~~8pt~~~~comment~Company:~1~start~gge202~0~pinpart#@$T~L~871.24995~-36.64~0~#0000FF~~9pt~~~~comment~DF3MT~1~start~gge208~0~frame_company#@$PL~799.63 -50.75 799.63 -10.75~#880000~1~0~none~gge214~0",
+          "LIB~365~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~ggef5d662679568347a~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~ae109a961d8685e3~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~352.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge1870~0~pinpart#@$T~P~352.953125~-582.296875~0~#000080~Arial~~~~~comment~U1~1~start~gge1876~0~pinpart#@$R~355~-570~2~2~20~30~#880000~1~0~none~gge1882~0~#@$E~360~-565~1.5~1.5~#880000~1~0~#880000~gge1885~0#@$P~show~0~1~345~-560~180~gge1888~0^^345~-560^^M 345 -560 h 10~#880000^^1~358.7~-556~0~-~start~~~#0000FF^^1~354.5~-561~0~1~end~~~#0000FF^^0~352~-560^^0~M 355 -557 L 358 -560 L 355 -563#@$P~show~0~2~345~-550~180~gge1909~0^^345~-550^^M 345 -550 h 10~#880000^^1~358.7~-546~0~+~start~~~#0000FF^^1~354.5~-551~0~2~end~~~#0000FF^^0~352~-550^^0~M 355 -547 L 358 -550 L 355 -553",
+          "LIB~410~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~gge2bf08c772375ac5b~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~18315adff69aca66~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~397.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge1936~0~pinpart#@$T~P~397.953125~-582.296875~0~#000080~Arial~~~~~comment~U2~1~start~gge1942~0~pinpart#@$R~400~-570~2~2~20~30~#880000~1~0~none~gge1948~0~#@$E~405~-565~1.5~1.5~#880000~1~0~#880000~gge1951~0#@$P~show~0~1~390~-560~180~gge1954~0^^390~-560^^M 390 -560 h 10~#880000^^1~403.7~-556~0~-~start~~~#0000FF^^1~399.5~-561~0~1~end~~~#0000FF^^0~397~-560^^0~M 400 -557 L 403 -560 L 400 -563#@$P~show~0~2~390~-550~180~gge1975~0^^390~-550^^M 390 -550 h 10~#880000^^1~403.7~-546~0~+~start~~~#0000FF^^1~399.5~-551~0~2~end~~~#0000FF^^0~397~-550^^0~M 400 -547 L 403 -550 L 400 -553",
+          "LIB~460~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~gge6f33595a9cadd3d2~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~7dc19508f367eb93~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~447.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge2002~0~pinpart#@$T~P~447.953125~-582.296875~0~#000080~Arial~~~~~comment~U3~1~start~gge2008~0~pinpart#@$R~450~-570~2~2~20~30~#880000~1~0~none~gge2014~0~#@$E~455~-565~1.5~1.5~#880000~1~0~#880000~gge2017~0#@$P~show~0~1~440~-560~180~gge2020~0^^440~-560^^M 440 -560 h 10~#880000^^1~453.7~-556~0~-~start~~~#0000FF^^1~449.5~-561~0~1~end~~~#0000FF^^0~447~-560^^0~M 450 -557 L 453 -560 L 450 -563#@$P~show~0~2~440~-550~180~gge2041~0^^440~-550^^M 440 -550 h 10~#880000^^1~453.7~-546~0~+~start~~~#0000FF^^1~449.5~-551~0~2~end~~~#0000FF^^0~447~-550^^0~M 450 -547 L 453 -550 L 450 -553",
+          "LIB~510~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~gge1ddbfa71ce327e41~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~266f7b7be9739541~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~497.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge2068~0~pinpart#@$T~P~497.953125~-582.296875~0~#000080~Arial~~~~~comment~U4~1~start~gge2074~0~pinpart#@$R~500~-570~2~2~20~30~#880000~1~0~none~gge2080~0~#@$E~505~-565~1.5~1.5~#880000~1~0~#880000~gge2083~0#@$P~show~0~1~490~-560~180~gge2086~0^^490~-560^^M 490 -560 h 10~#880000^^1~503.7~-556~0~-~start~~~#0000FF^^1~499.5~-561~0~1~end~~~#0000FF^^0~497~-560^^0~M 500 -557 L 503 -560 L 500 -563#@$P~show~0~2~490~-550~180~gge2107~0^^490~-550^^M 490 -550 h 10~#880000^^1~503.7~-546~0~+~start~~~#0000FF^^1~499.5~-551~0~2~end~~~#0000FF^^0~497~-550^^0~M 500 -547 L 503 -550 L 500 -553",
+          "LIB~550~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~ggef52713c0e3ebbdaf~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~aa1b14f328ca09da~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~537.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge2134~0~pinpart#@$T~P~537.953125~-582.296875~0~#000080~Arial~~~~~comment~U5~1~start~gge2140~0~pinpart#@$R~540~-570~2~2~20~30~#880000~1~0~none~gge2146~0~#@$E~545~-565~1.5~1.5~#880000~1~0~#880000~gge2149~0#@$P~show~0~1~530~-560~180~gge2152~0^^530~-560^^M 530 -560 h 10~#880000^^1~543.7~-556~0~-~start~~~#0000FF^^1~539.5~-561~0~1~end~~~#0000FF^^0~537~-560^^0~M 540 -557 L 543 -560 L 540 -563#@$P~show~0~2~530~-550~180~gge2173~0^^530~-550^^M 530 -550 h 10~#880000^^1~543.7~-546~0~+~start~~~#0000FF^^1~539.5~-551~0~2~end~~~#0000FF^^0~537~-550^^0~M 540 -547 L 543 -550 L 540 -553",
+          "LIB~595~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~ggea77acbe265603fef~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~fd68574a9e83250b~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~582.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge2200~0~pinpart#@$T~P~582.953125~-582.296875~0~#000080~Arial~~~~~comment~U6~1~start~gge2206~0~pinpart#@$R~585~-570~2~2~20~30~#880000~1~0~none~gge2212~0~#@$E~590~-565~1.5~1.5~#880000~1~0~#880000~gge2215~0#@$P~show~0~1~575~-560~180~gge2218~0^^575~-560^^M 575 -560 h 10~#880000^^1~588.7~-556~0~-~start~~~#0000FF^^1~584.5~-561~0~1~end~~~#0000FF^^0~582~-560^^0~M 585 -557 L 588 -560 L 585 -563#@$P~show~0~2~575~-550~180~gge2239~0^^575~-550^^M 575 -550 h 10~#880000^^1~588.7~-546~0~+~start~~~#0000FF^^1~584.5~-551~0~2~end~~~#0000FF^^0~582~-550^^0~M 585 -547 L 588 -550 L 585 -553",
+          "LIB~650~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~ggea4fce8becdf0e9a9~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~3a019fc8a318017f~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~637.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge2266~0~pinpart#@$T~P~637.953125~-582.296875~0~#000080~Arial~~~~~comment~U7~1~start~gge2272~0~pinpart#@$R~640~-570~2~2~20~30~#880000~1~0~none~gge2278~0~#@$E~645~-565~1.5~1.5~#880000~1~0~#880000~gge2281~0#@$P~show~0~1~630~-560~180~gge2284~0^^630~-560^^M 630 -560 h 10~#880000^^1~643.7~-556~0~-~start~~~#0000FF^^1~639.5~-561~0~1~end~~~#0000FF^^0~637~-560^^0~M 640 -557 L 643 -560 L 640 -563#@$P~show~0~2~630~-550~180~gge2305~0^^630~-550^^M 630 -550 h 10~#880000^^1~643.7~-546~0~+~start~~~#0000FF^^1~639.5~-551~0~2~end~~~#0000FF^^0~637~-550^^0~M 640 -547 L 643 -550 L 640 -553",
+          "LIB~695~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~gge0b12c68b27c91cbd~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~79093791119ee130~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~682.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge2332~0~pinpart#@$T~P~682.953125~-582.296875~0~#000080~Arial~~~~~comment~U8~1~start~gge2338~0~pinpart#@$R~685~-570~2~2~20~30~#880000~1~0~none~gge2344~0~#@$E~690~-565~1.5~1.5~#880000~1~0~#880000~gge2347~0#@$P~show~0~1~675~-560~180~gge2350~0^^675~-560^^M 675 -560 h 10~#880000^^1~688.7~-556~0~-~start~~~#0000FF^^1~684.5~-561~0~1~end~~~#0000FF^^0~682~-560^^0~M 685 -557 L 688 -560 L 685 -563#@$P~show~0~2~675~-550~180~gge2371~0^^675~-550^^M 675 -550 h 10~#880000^^1~688.7~-546~0~+~start~~~#0000FF^^1~684.5~-551~0~2~end~~~#0000FF^^0~682~-550^^0~M 685 -547 L 688 -550 L 685 -553",
+          "LIB~745~-555~package`CONN-TH_XT60`Supplier`LCSC`Supplier Part`C98733`Manufacturer`AMASS(艾迈斯)`Manufacturer Part`XT60`link`https://atta.szlcsc.com/upload/public/pdf/source/20170606/1496716524919.pdf`JLCPCB Part Class`Extended Part`Contributor`lcsc`spicePre`U`spiceSymbolName`XT60`~~0~gge1a5d8da742f45c94~05accc143e0c48448ed64424c0bb6784~72d1f36e0eb3437d900f444af964921f~0~703ff3de70eb1c61~yes~yes~4d767d2076bf47fdb010bb0529f37f71~1679392203~aec6e6ceb928451095dcf4e8381756f3#@$T~N~732.953125~-573.53125~0~#000080~Arial~~~~~comment~XT60~1~start~gge2398~0~pinpart#@$T~P~732.953125~-582.296875~0~#000080~Arial~~~~~comment~U9~1~start~gge2404~0~pinpart#@$R~735~-570~2~2~20~30~#880000~1~0~none~gge2410~0~#@$E~740~-565~1.5~1.5~#880000~1~0~#880000~gge2413~0#@$P~show~0~1~725~-560~180~gge2416~0^^725~-560^^M 725 -560 h 10~#880000^^1~738.7~-556~0~-~start~~~#0000FF^^1~734.5~-561~0~1~end~~~#0000FF^^0~732~-560^^0~M 735 -557 L 738 -560 L 735 -563#@$P~show~0~2~725~-550~180~gge2437~0^^725~-550^^M 725 -550 h 10~#880000^^1~738.7~-546~0~+~start~~~#0000FF^^1~734.5~-551~0~2~end~~~#0000FF^^0~732~-550^^0~M 735 -547 L 738 -550 L 735 -553",
+          "W~345 -560 345 -610 390 -610 390 -560~#008800~1~0~none~gge2524~0",
+          "W~440 -560 440 -610 390 -610~#008800~1~0~none~gge2527~0",
+          "W~725 -560 725 -610 440 -610~#008800~1~0~none~gge2531~0",
+          "W~490 -560 490 -610~#008800~1~0~none~gge2535~0",
+          "W~530 -560 530 -610~#008800~1~0~none~gge2539~0",
+          "W~575 -560 575 -610~#008800~1~0~none~gge2543~0",
+          "W~630 -560 630 -610~#008800~1~0~none~gge2547~0",
+          "W~675 -560 675 -610~#008800~1~0~none~gge2551~0",
+          "W~345 -550 345 -515 725 -515 725 -550~#008800~1~0~none~gge2555~0",
+          "W~675 -550 675 -515~#008800~1~0~none~gge2558~0",
+          "W~630 -550 630 -515~#008800~1~0~none~gge2562~0",
+          "W~575 -550 575 -515~#008800~1~0~none~gge2566~0",
+          "W~530 -550 530 -515~#008800~1~0~none~gge2570~0",
+          "W~490 -550 490 -515~#008800~1~0~none~gge2574~0",
+          "W~440 -550 440 -515~#008800~1~0~none~gge2578~0",
+          "W~390 -550 390 -515~#008800~1~0~none~gge2582~0",
+          "F~part_netLabel_gnD~305~-595~0~gge8925~~0^^305~-595^^GND~#000000~292~-569~0~start~1~Times New Roman~9pt~flag_gge10^^PL~305 -585 305 -595~#000000~1~0~transparent~gge8937~0^^PL~296 -585 314 -585~#000000~1~0~transparent~gge8940~0^^PL~299 -583 311 -583~#000000~1~0~transparent~gge8943~0^^PL~302 -581 308 -581~#000000~1~0~transparent~gge8946~0^^PL~304 -579 306 -579~#000000~1~0~transparent~gge8949~0",
+          "W~305 -595 345 -595~#008800~1~0~none~gge8979~0",
+          "T~L~1015~-15~0~#0000FF~~9pt~~~~comment~Michael Trunke~1~start~gge8987~0~frame_date",
+          "J~390~-610~2.5~#CC0000~gge2528~0",
+          "J~440~-610~2.5~#CC0000~gge2532~0",
+          "J~490~-610~2.5~#CC0000~gge2536~0",
+          "J~530~-610~2.5~#CC0000~gge2540~0",
+          "J~575~-610~2.5~#CC0000~gge2544~0",
+          "J~630~-610~2.5~#CC0000~gge2548~0",
+          "J~675~-610~2.5~#CC0000~gge2552~0",
+          "J~675~-515~2.5~#CC0000~gge2559~0",
+          "J~630~-515~2.5~#CC0000~gge2563~0",
+          "J~575~-515~2.5~#CC0000~gge2567~0",
+          "J~530~-515~2.5~#CC0000~gge2571~0",
+          "J~490~-515~2.5~#CC0000~gge2575~0",
+          "J~440~-515~2.5~#CC0000~gge2579~0",
+          "J~390~-515~2.5~#CC0000~gge2583~0",
+          "J~345~-595~2.5~#CC0000~gge8980~0"
+        ],
+        "BBox": {
+          "x": 0,
+          "y": -807,
+          "width": 1149,
+          "height": 807.5
+        },
+        "colors": {}
+      }
+    }
+  ]
+}
